@@ -585,15 +585,56 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 
 },{}],"h7u1C":[function(require,module,exports) {
 /// <reference types="@types/google.maps" />
-// import { User } from "./User";
-// import { Company } from "./Company";
-const map = new google.maps.Map(document.getElementById("map"), {
-    zoom: 1,
-    center: {
-        lat: 0,
-        lng: 0
+// import { User } from './User';
+// import { Company } from './Company';
+var _customMap = require("./CustomMap");
+new (0, _customMap.CustomMap)("map");
+
+},{"./CustomMap":"4qzxZ"}],"4qzxZ":[function(require,module,exports) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "CustomMap", ()=>CustomMap);
+class CustomMap {
+    constructor(divId){
+        this.googleMap = new google.maps.Map(document.getElementById(divId), {
+            zoom: 1,
+            center: {
+                lat: 0,
+                lng: 0
+            }
+        });
     }
-});
+}
+
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"c6o2O"}],"c6o2O":[function(require,module,exports) {
+exports.interopDefault = function(a) {
+    return a && a.__esModule ? a : {
+        default: a
+    };
+};
+exports.defineInteropFlag = function(a) {
+    Object.defineProperty(a, "__esModule", {
+        value: true
+    });
+};
+exports.exportAll = function(source, dest) {
+    Object.keys(source).forEach(function(key) {
+        if (key === "default" || key === "__esModule" || Object.prototype.hasOwnProperty.call(dest, key)) return;
+        Object.defineProperty(dest, key, {
+            enumerable: true,
+            get: function() {
+                return source[key];
+            }
+        });
+    });
+    return dest;
+};
+exports.export = function(dest, destName, get) {
+    Object.defineProperty(dest, destName, {
+        enumerable: true,
+        get: get
+    });
+};
 
 },{}]},["fPC0T","h7u1C"], "h7u1C", "parcelRequire94c2")
 
