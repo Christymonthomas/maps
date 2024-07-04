@@ -63,7 +63,7 @@
 79E:\Learnings\maps\node_modules\@faker-js\faker\dist\types\locales\fr_CH\vehicle133645478857376425 1
 96E:\Learnings\maps\node_modules\@faker-js\faker\dist\types\locales\ur\address\street_address.d.ts133645478854469841 0
 88E:\Learnings\maps\node_modules\@faker-js\faker\dist\cjs\locales\it\address\state_abbr.js133645478823351822 0
-22E:\Learnings\maps\dist133645480359353415 1
+22E:\Learnings\maps\dist133645482043090762 1
 75E:\Learnings\maps\node_modules\@faker-js\faker\dist\cjs\locales\fa\internet133645478811838986 1
 28E:\Learnings\maps\index.html133645478415084422 0
 75E:\Learnings\maps\node_modules\@faker-js\faker\dist\cjs\locales\sk\index.js133645478814504689 0
@@ -112,7 +112,7 @@
 81E:\Learnings\maps\node_modules\@faker-js\faker\dist\cjs\locales\pl\name\gender.js133645478808841824 0
 85E:\Learnings\maps\node_modules\@faker-js\faker\dist\types\locales\tr\lorem\index.d.ts133645478846496553 0
 79E:\Learnings\maps\node_modules\@faker-js\faker\dist\types\locales\de_AT\company133645478856040490 1
-32E:\Learnings\maps\src\Company.ts133645480354958004 0
+32E:\Learnings\maps\src\Company.ts133645485172792820 0
 94E:\Learnings\maps\node_modules\@faker-js\faker\dist\types\locales\fr\name\male_first_name.d.ts133645478848497050 0
 80E:\Learnings\maps\node_modules\@faker-js\faker\dist\cjs\locales\es\date\month.js133645478818841052 0
 86E:\Learnings\maps\node_modules\@faker-js\faker\dist\types\locales\ru\date\weekday.d.ts133645478858180514 0
@@ -130,7 +130,7 @@
 79E:\Learnings\maps\node_modules\@faker-js\faker\dist\types\locales\ne\index.d.ts133645478845502901 0
 92E:\Learnings\maps\node_modules\@faker-js\faker\dist\types\locales\hr\cell_phone\formats.d.ts133645478840109147 0
 59E:\Learnings\maps\node_modules\@faker-js\faker\locale\fi.js133645478806071762 0
-34E:\Learnings\maps\src\CustomMap.ts133645479941078011 0
+34E:\Learnings\maps\src\CustomMap.ts133645482038412820 0
 88E:\Learnings\maps\node_modules\@faker-js\faker\dist\types\locales\uk\internet\index.d.ts133645478846496553 0
 89E:\Learnings\maps\node_modules\@faker-js\faker\dist\types\locales\pl\name\first_name.d.ts133645478839329351 0
 81E:\Learnings\maps\node_modules\@faker-js\faker\dist\types\modules\name\index.d.ts133645478847325632 0
@@ -147,7 +147,7 @@
 96E:\Learnings\maps\node_modules\@faker-js\faker\dist\types\locales\sv\name\female_first_name.d.ts133645478838682602 0
 83E:\Learnings\maps\node_modules\@faker-js\faker\dist\types\locales\en_IND\index.d.ts133645478842831236 0
 96E:\Learnings\maps\node_modules\@faker-js\faker\dist\types\locales\vi\name\female_first_name.d.ts133645478838682602 0
-29E:\Learnings\maps\src\User.ts133645480128901214 0
+29E:\Learnings\maps\src\User.ts133645482368457450 0
 93E:\Learnings\maps\node_modules\@faker-js\faker\dist\types\locales\sk\address\street_name.d.ts133645478854675385 0
 87E:\Learnings\maps\node_modules\@faker-js\faker\dist\types\locales\fa\company\index.d.ts133645478843675909 0
 89E:\Learnings\maps\node_modules\@faker-js\faker\dist\types\locales\fr\address\country.d.ts133645478834836288 0
@@ -995,7 +995,7 @@
 84E:\Learnings\maps\node_modules\@faker-js\faker\dist\types\locales\zu_ZA\phone_number133645478847104896 1
 96E:\Learnings\maps\node_modules\@faker-js\faker\dist\types\locales\ja\name\female_first_name.d.ts133645478838493206 0
 88E:\Learnings\maps\node_modules\@faker-js\faker\dist\types\locales\sk\address\street.d.ts133645478855875670 0
-44E:\Learnings\maps\dist\index.b71e74eb.js.map133645480359343222 0
+44E:\Learnings\maps\dist\index.b71e74eb.js.map133645482043090762 0
 79E:\Learnings\maps\node_modules\@faker-js\faker\dist\types\locales\nl_BE\address133645478855662508 1
 95E:\Learnings\maps\node_modules\@faker-js\faker\dist\types\locales\zu_ZA\phone_number\index.d.ts133645478847104896 0
 99E:\Learnings\maps\node_modules\@faker-js\faker\dist\types\locales\zu_ZA\name\female_first_name.d.ts133645478838682602 0
@@ -3119,7 +3119,7 @@
 80E:\Learnings\maps\node_modules\@faker-js\faker\dist\cjs\locales\ne\name\index.js133645478813673814 0
 87E:\Learnings\maps\node_modules\@faker-js\faker\dist\types\locales\fa\finance\index.d.ts133645478843830529 0
 89E:\Learnings\maps\node_modules\@faker-js\faker\dist\types\locales\fa\company\bs_verb.d.ts133645478832695004 0
-40E:\Learnings\maps\dist\index.b71e74eb.js133645480359187426 0
+40E:\Learnings\maps\dist\index.b71e74eb.js133645482042902832 0
 95E:\Learnings\maps\node_modules\@faker-js\faker\dist\types\locales\fa\company\name_patterns.d.ts133645478849561964 0
 92E:\Learnings\maps\node_modules\@faker-js\faker\dist\cjs\locales\fr\internet\domain_suffix.js133645478803612115 0
 93E:\Learnings\maps\node_modules\@faker-js\faker\dist\types\locales\fa\commerce\department.d.ts133645478835997442 0
@@ -5552,4 +5552,4 @@
 83E:\Learnings\maps\node_modules\@faker-js\faker\dist\cjs\definitions\phone_number.js133645478820628761 0
 78E:\Learnings\maps\node_modules\@faker-js\faker\dist\cjs\definitions\vehicle.js133645478827156304 0
 75E:\Learnings\maps\node_modules\@faker-js\faker\dist\cjs\definitions\word.js133645478827995002 0
-33E:\Learnings\maps\dist\index.html133645479946231766 0
+33E:\Learnings\maps\dist\index.html133645482040538411 0
