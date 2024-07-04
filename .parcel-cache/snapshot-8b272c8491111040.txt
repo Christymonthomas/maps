@@ -32,7 +32,7 @@
 94E:\Learnings\TypeScript\maps\node_modules\@faker-js\faker\dist\cjs\locales\ko\address\index.js133644557280273069 0
 94E:\Learnings\TypeScript\maps\node_modules\@faker-js\faker\dist\types\locales\ru\name\name.d.ts133644557351122505 0
 97E:\Learnings\TypeScript\maps\node_modules\@faker-js\faker\dist\types\locales\pl\company\noun.d.ts133644557351758510 0
-55E:\Learnings\TypeScript\maps\dist\index.b71e74eb.js.map133645418900841910 0
+55E:\Learnings\TypeScript\maps\dist\index.b71e74eb.js.map133645468435267261 0
 95E:\Learnings\TypeScript\maps\node_modules\@faker-js\faker\dist\types\locales\lv\name\index.d.ts133644557340427317 0
 91E:\Learnings\TypeScript\maps\node_modules\@faker-js\faker\dist\cjs\locales\sv\team\index.js133644557283438567 0
 86E:\Learnings\TypeScript\maps\node_modules\@faker-js\faker\dist\cjs\locales\sk\index.js133644557283148749 0
@@ -55,7 +55,7 @@
 32E:\Learnings\TypeScript\maps\src133644754367600301 1
 100E:\Learnings\TypeScript\maps\node_modules\@faker-js\faker\dist\types\locales\nl\name\first_name.d.ts133644557327110500 0
 80E:\Learnings\TypeScript\maps\node_modules\@faker-js\faker\dist\cjs\locales\en_GH133644557274125773 1
-33E:\Learnings\TypeScript\maps\dist133645418900841910 1
+33E:\Learnings\TypeScript\maps\dist133645468435287245 1
 79E:\Learnings\TypeScript\maps\node_modules\@faker-js\faker\dist\types\locales\fa133644557337591095 1
 104E:\Learnings\TypeScript\maps\node_modules\@faker-js\faker\dist\cjs\locales\ur\address\building_number.js133644557252134663 0
 93E:\Learnings\TypeScript\maps\node_modules\@faker-js\faker\dist\cjs\locales\ar\date\weekday.js133644557304417353 0
@@ -91,7 +91,7 @@
 73E:\Learnings\TypeScript\maps\node_modules\@faker-js\faker\locale\fr_CA.js133644557269478765 0
 91E:\Learnings\TypeScript\maps\node_modules\@faker-js\faker\dist\types\locales\en_IND\company133644557359961234 1
 103E:\Learnings\TypeScript\maps\node_modules\@faker-js\faker\dist\types\locales\hy\phone_number\index.d.ts133644557339600810 0
-45E:\Learnings\TypeScript\maps\src\CustomMap.ts133645418338804117 0
+45E:\Learnings\TypeScript\maps\src\CustomMap.ts133645468430409450 0
 95E:\Learnings\TypeScript\maps\node_modules\@faker-js\faker\dist\types\locales\es\name\title.d.ts133644557361419843 0
 97E:\Learnings\TypeScript\maps\node_modules\@faker-js\faker\dist\cjs\locales\az\address\postcode.js133644557293569108 0
 102E:\Learnings\TypeScript\maps\node_modules\@faker-js\faker\dist\types\locales\zh_CN\name\last_name.d.ts133644557346556146 0
@@ -5141,7 +5141,7 @@
 98E:\Learnings\TypeScript\maps\node_modules\@faker-js\faker\dist\cjs\locales\en_IND\address\index.js133644557274282029 0
 98E:\Learnings\TypeScript\maps\node_modules\@faker-js\faker\dist\cjs\locales\en_IND\address\state.js133644557297564614 0
 99E:\Learnings\TypeScript\maps\node_modules\@faker-js\faker\dist\cjs\locales\en_IND\address\street.js133644557300418666 0
-44E:\Learnings\TypeScript\maps\dist\index.html133645418340488686 0
+44E:\Learnings\TypeScript\maps\dist\index.html133645468432851910 0
 88E:\Learnings\TypeScript\maps\node_modules\@faker-js\faker\dist\cjs\locales\en_IE\address133644557300379258 1
 89E:\Learnings\TypeScript\maps\node_modules\@faker-js\faker\dist\cjs\locales\en_IE\index.js133644557274282029 0
 104E:\Learnings\TypeScript\maps\node_modules\@faker-js\faker\dist\cjs\locales\en_IE\phone_number\formats.js133644557267257647 0
@@ -5552,4 +5552,4 @@
 87E:\Learnings\TypeScript\maps\node_modules\@faker-js\faker\dist\cjs\definitions\music.js133644557290299061 0
 94E:\Learnings\TypeScript\maps\node_modules\@faker-js\faker\dist\cjs\definitions\phone_number.js133644557293418527 0
 88E:\Learnings\TypeScript\maps\node_modules\@faker-js\faker\dist\cjs\definitions\system.js133644557302250661 0
-51E:\Learnings\TypeScript\maps\dist\index.b71e74eb.js133645418900620441 0
+51E:\Learnings\TypeScript\maps\dist\index.b71e74eb.js133645468435137216 0
